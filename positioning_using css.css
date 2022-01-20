@@ -1,0 +1,25 @@
+p{color:red;
+  font-family:verdana;
+}
+table{position:relative;
+      background-color:white;
+      border:2px solid;
+}
+.lib{ position:absolute;
+  top:100px;
+  color:red;
+  font-family:verdana;
+    
+}
+.hostel{position:absolute;
+  top:204px;
+  color:red;
+  font-family:verdana;
+}
+
+.transportation{position:absolute;
+  top:263px;
+  color:red;
+  font-family:verdana;
+}
+
